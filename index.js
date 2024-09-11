@@ -96,13 +96,12 @@ if (isNaN(port)) port = 8080;
 
 server.on("listening", () => {
   const address = server.address();
-  console.log(`[+] Starting Nativegames...`);
+  console.log(`[+] Starting DW...`);
   console.log();
-  console.log(`[+] Made by The Parcoil Network:`);
+  console.log(`[+] Made by DW:`);
   console.log();
-  console.warn(`[+] https://github.com/Parcoil/nativegames.net`);
   console.log();
-  console.log(`[+] Nativegames Running on port ${address.port}`);
+  console.log(`[+] DW Running on port ${address.port}`);
   console.log();
 });
 

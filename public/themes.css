@@ -63,7 +63,7 @@ body[theme="greyblack"] {
   background-attachment: fixed;
 }
 
-body[theme="ghost"] {
+body[theme="DW"] {
   --background-filter: blur(3px) brightness(80%);
   background: rgb(0, 0, 0);
   background: linear-gradient(
