@@ -504,7 +504,7 @@
   },
   {
     "name": "Drift Boss",
-    "image": "media/cover-start.jpg",
+    "image": "logo.png",
     "url": "drift-boss",
     "new": false
   },
@@ -636,8 +636,8 @@
   },
   {
     "name": "Flappy Bird",
-    "image": "img/thumb.png",
-    "url": "flappybird",
+    "image": "flappybird.jpg",
+    "url": "flappy-bird",
     "new": false
   },
   {
@@ -650,12 +650,6 @@
     "name": "Flippy Fish",
     "image": "2022_10_28_0jt_Kleki.png",
     "url": "flippy-fish",
-    "new": false
-  },
-  {
-    "name": "Five Nights at Wario's (FNAW)",
-    "image": "splash.png",
-    "url": "FNAW",
     "new": false
   },
   {
@@ -1004,12 +998,6 @@
     "name": "Moto X3M Winter",
     "image": "download.jpeg",
     "url": "motox3m-winter",
-    "new": false
-  },
-  {
-    "name": "Moto X3M 2",
-    "image": "",
-    "url": "motox3m2",
     "new": false
   },
   {
