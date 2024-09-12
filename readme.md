@@ -1,6 +1,6 @@
 <div align=center>
 
-<img align="center" src="public/media/logo.svg" width="100">
+<img align="center" src="public/media/logoo.svg" width="100">
 
 <h1 align="center"> DW GAMES v4</h1>
 
