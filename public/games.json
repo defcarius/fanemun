@@ -1686,13 +1686,13 @@
   },
   {
     "name": "WebGL Fluid Simulation",
-    "image": "promo_back.png",
+    "image": "logo.png",
     "url": "webglfluidsimulation",
     "new": false
   },
   {
     "name": "WebRetro",
-    "image": "",
+    "image": "canvas.png",
     "url": "webretro",
     "new": false
   },
