@@ -1687,7 +1687,7 @@
   {
     "name": "WebGL Fluid Simulation",
     "image": "logo.png",
-    "url": "webglfluidsimulation",
+    "url": "webgl-fluid-simulation",
     "new": false
   },
   {
