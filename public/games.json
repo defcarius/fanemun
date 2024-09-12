@@ -12,6 +12,12 @@
   },
   {
     "name": "1v1space",
+    "image": "chicken.jpg",
+    "url": "chick",
+    "new": false
+  },
+  {
+    "name": "Chick End",
     "image": "splash.png",
     "url": "1v1space",
     "new": false
