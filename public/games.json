@@ -19,7 +19,7 @@
   {
     "name": "Chick End",
     "image": "chicken.jpg",
-    "url": "chick",
+    "url":   "chick",
     "new": false
   },
   {
