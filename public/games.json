@@ -23,6 +23,14 @@
     "new": false
   },
   {
+  },
+  {
+    "name": "GladiHoppers",
+    "image": "/media/gladihoppers-min.jpg",
+    "url":   "gladihoppers",
+    "new": false
+  },
+  {
     "name": "10 Minutes Till Dawn",
     "image": "splash.png",
     "url": "10-minutes-till-dawn",
