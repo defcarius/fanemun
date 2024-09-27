@@ -19,14 +19,12 @@
   {
     "name": "Chick End",
     "image": "img/chicken.jpg",
-    "url":   "/workspaces/adwawdawdadw/ifr.html",
+    "url":   "chick",
     "new": false
   },
   {
-  },
-  {
     "name": "GladiHoppers",
-    "image": "/media/gladihoppers-min.jpg",
+    "image": "thumb.png",
     "url":   "gladihoppers",
     "new": false
   },
